@@ -9,3 +9,5 @@ VS Code (with live-server)
 
 Chrome Browser (for testing responsiveness)
 
+<img width="1583" height="746" alt="image" src="https://github.com/user-attachments/assets/d024a78e-16db-48d3-8511-b05d7e2cd997" />
+
